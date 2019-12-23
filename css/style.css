@@ -1,0 +1,71 @@
+body {
+    background-color: #eeeeee;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    color: #333333;
+    font-size: 200%;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+header p {
+    font-size: 100%;
+    font-weight: 600;
+}
+section h2 {
+    background-color: #6a6a6a;
+    color: white;
+    font-size: 125%;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+section h3 {
+    background-color: #aaaaaa;
+    color: darkslateblue;
+    font-size: 125%;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+section p {
+    background-color: #cccccc;
+    line-height: 1.6em;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+}
+
+footer address {
+    background-color: white;
+    font-style: normal;
+    text-align: right;
+}
+
+section p em {
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline 1.5px;
+    font-style: normal;
+    font-variant: all-small-caps
+}
+
+section p strong {
+    color: green;
+    font-style: normal;
+    font-weight: 600;
+}
+
+footer address {
+    padding: 20px;
+}
